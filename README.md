@@ -56,9 +56,9 @@ const srkitkat = {
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrKitKat&theme=tokyonight"/>
 
 
-<img src="https://streak-stats.demolab.com?user=SrKitKat&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=SrKitKat&color=001f3f&style=for-the-badge&label=VISITAS)
 </div>
+
 
 ---
 
@@ -74,6 +74,5 @@ const srkitkat = {
 ╚════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SrKitKat&color=00d9ff&style=for-the-badge&label=VISITAS)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=SrKitKat&color=00ff00&style=for-the-badge&label=💚+VISITAS+💚)
 </div>
