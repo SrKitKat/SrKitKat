@@ -74,5 +74,4 @@ const srkitkat = {
 ╚════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SrKitKat&color=00ff00&style=for-the-badge&label=💚+VISITAS+💚)
 </div>
