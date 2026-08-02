@@ -13,7 +13,7 @@
 ## 👾 Sobre mim
 
 ```javascript
-const srkitkat = {
+const DarkBot = {
   role:        "Desenvolvedor Full Stack",
   location:    "Brasil",
   focus:       ["Web", "Desktop", "Automação"],
