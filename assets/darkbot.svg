@@ -36,8 +36,5 @@
  <path d="M276 118L306 143L276 168Z" fill="#f0bc8c" opacity=".85"/>
  <g font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#deebf3" text-anchor="middle"><text x="65" y="192">JOGO 01</text><text x="177" y="192">JOGO 02</text><text x="289" y="192">JOGO 03</text></g>
  <circle cx="23" cy="230" r="4" fill="#75e1b3"/><text x="36" y="235" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#aac7d0">Ambiente adaptado ao jogo</text>
- <rect x="204" y="218" width="137" height="49" rx="11" fill="#174538" stroke="#80e7b7"/>
- <path d="M223 230L217 243H225L220 255L234 239H226L232 230Z" fill="#8cf0c2"/>
- <text x="241" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#d6fff0">AUTOMATIZAR</text>
 </g>
 </svg>
