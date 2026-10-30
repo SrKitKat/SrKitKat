@@ -29,6 +29,8 @@ const SrKitKat = {
 
 ## Projetos em destaque
 
+<img width="100%" src="assets/darkbot.svg" alt="DarkBot — launcher de jogos para Windows com automação integrada. O conteúdo interno se adapta ao jogo selecionado. Feito com C#, .NET Framework, Windows Forms e CefSharp. Código privado.">
+
 <img width="100%" src="assets/darktype.svg" alt="DarkType — plataforma educacional de digitação e programação, com desafios e salas em tempo real. Feita com Next.js, TypeScript, Tailwind CSS e Supabase. Código privado.">
 
 <img width="100%" src="assets/botflix.svg" alt="BotFlix — aplicativo de mídia para web e Android, com busca, favoritos e reprodução. Feito com Next.js, TypeScript, Capacitor e HLS.js. Código privado.">
@@ -58,6 +60,8 @@ const SrKitKat = {
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge)
+![CefSharp](https://img.shields.io/badge/CefSharp-4285F4?style=for-the-badge)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 
