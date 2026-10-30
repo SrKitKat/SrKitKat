@@ -27,29 +27,27 @@ const SrKitKat = {
 };
 ```
 
-## 🚀 Projetos em destaque
+## DarkType
 
-### ⌨️ DarkType
+**Plataforma para aprender digitação e programação.**
 
-**Aprender, praticar e competir em tempo real.**
+- Salas ao vivo com professores e alunos.
+- Desafios, rankings e evolução dos participantes.
 
-Plataforma educacional que transforma digitação e programação em desafios interativos. Salas ao vivo, rankings e progressão conectam professores e alunos em uma experiência gamificada.
+**Feito com:** Next.js, TypeScript, Tailwind CSS e Supabase.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Ably`
+Código privado.
 
-<sub>EDUCAÇÃO · TEMPO REAL · GAMIFICAÇÃO &nbsp; 🔒 Código privado</sub>
+## BotFlix
 
----
+**Aplicativo de mídia para web e Android.**
 
-### 🎬 BotFlix
+- Catálogo com busca e favoritos.
+- Histórico de reprodução e player nativo no Android.
 
-**Uma experiência de mídia entre web e Android.**
+**Feito com:** Next.js, TypeScript e Capacitor.
 
-Catálogo com busca, favoritos e histórico para continuar de onde parou. Interface web integrada a um aplicativo Android com reprodução em player nativo.
-
-`Next.js` `React` `TypeScript` `Capacitor` `HLS.js`
-
-<sub>WEB · ANDROID · MULTIMÍDIA &nbsp; 🔒 Código privado</sub>
+Código privado.
 
 ## 🛠️ Tecnologias
 
