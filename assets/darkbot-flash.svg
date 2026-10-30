@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="DarkBot: Launcher de jogos com automação integrada.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="DarkBot: launcher para continuar jogando títulos do antigo Flash Player, com automação integrada.">
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c32"/><stop offset="1" stop-color="#080e1c"/></linearGradient>
  <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#80e7b7"/><stop offset="1" stop-color="#69cfea"/></linearGradient>
@@ -10,10 +10,11 @@
 <ellipse cx="1000" cy="200" rx="290" ry="290" fill="url(#glow)"/>
 <rect x="42" y="52" width="5" height="254" rx="2.5" fill="url(#accent)"/>
 <g font-family="Segoe UI, Arial, sans-serif">
- <text x="70" y="66" fill="#80e7b7" font-size="16" font-weight="700" letter-spacing="3">DESKTOP + AUTOMAÇÃO</text>
+ <text x="70" y="66" fill="#80e7b7" font-size="16" font-weight="700" letter-spacing="3">JOGOS FLASH + AUTOMAÇÃO</text>
  <text x="66" y="143" fill="#f5f8ff" font-size="68" font-weight="800" letter-spacing="-2">DarkBot</text>
- <text x="70" y="193" fill="#e0e9fa" font-size="27" font-weight="600">Seus jogos. Suas automações.</text>
- <text x="70" y="234" fill="#b1c1d9" font-size="22">Launcher de jogos com automação integrada.</text>
+ <text x="70" y="193" fill="#e0e9fa" font-size="27" font-weight="600">Seus jogos Flash continuam aqui.</text>
+ <text x="70" y="229" fill="#b1c1d9" font-size="21">Launcher para jogos do antigo Flash Player,</text>
+ <text x="70" y="255" fill="#b1c1d9" font-size="21">com automação integrada.</text>
  <rect x="70" y="267" width="610" height="46" rx="12" fill="#19263b" stroke="#34445c"/>
  <text x="89" y="297" fill="#e1eafa" font-size="19" font-weight="500">C#  ·  .NET Framework  ·  WinForms  ·  CefSharp</text>
  <text x="70" y="370" fill="#8ea2bf" font-size="17">PROJETO PESSOAL</text>
