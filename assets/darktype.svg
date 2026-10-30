@@ -18,7 +18,7 @@
  <text x="89" y="297" fill="#e1eafa" font-size="19" font-weight="500">Next.js  ·  TypeScript  ·  Tailwind CSS  ·  Supabase</text>
  <text x="70" y="370" fill="#8ea2bf" font-size="17">PROJETO PESSOAL</text>
  <circle cx="264" cy="364" r="3" fill="#7de3ee"/>
- <text x="279" y="370" fill="#8ea2bf" font-size="17">CÓDIGO PRIVADO</text>
+ <text x="279" y="370" fill="#71e5f3" font-size="17">CLIQUE PARA EXPERIMENTAR ↗</text>
  <text x="1118" y="370" text-anchor="end" fill="#738ba9" font-size="17" font-weight="600">SrKitKat /</text>
 </g>
 <g transform="translate(766 73)">

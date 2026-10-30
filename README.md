@@ -31,7 +31,9 @@ const SrKitKat = {
 
 <img width="100%" src="assets/darkbot-flash.svg" alt="DarkBot — launcher para Windows criado para que a comunidade continue jogando títulos do antigo Flash Player, com automação integrada. O conteúdo interno se adapta ao jogo selecionado. Feito com C#, .NET Framework, Windows Forms e CefSharp. Código privado.">
 
-<img width="100%" src="assets/darktype.svg" alt="DarkType — plataforma educacional de digitação e programação, com desafios e salas em tempo real. Feita com Next.js, TypeScript, Tailwind CSS e Supabase. Código privado.">
+<a href="https://dark-type-delta.vercel.app/">
+  <img width="100%" src="assets/darktype.svg" alt="Acessar DarkType — plataforma educacional de digitação e programação, com desafios e salas em tempo real. Feita com Next.js, TypeScript, Tailwind CSS e Supabase. Código privado; aplicação disponível para experimentar.">
+</a>
 
 <img width="100%" src="assets/botflix.svg" alt="BotFlix — aplicativo de mídia para web e Android, com busca, favoritos e reprodução. Feito com Next.js, TypeScript, Capacitor e HLS.js. Código privado.">
 
