@@ -4,6 +4,12 @@
 
 *Transformando linhas de código em experiências reais*
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrKitKat/SrKitKat/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrKitKat/SrKitKat/output/github-snake.svg">
+  <img alt="Animação da cobrinha com minhas contribuições no GitHub" src="https://raw.githubusercontent.com/SrKitKat/SrKitKat/output/github-snake.svg">
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Automação+%26+Desktop+Apps;Web+%7C+Desktop+%7C+Automação;Sempre+aprendendo+algo+novo...)](https://git.io/typing-svg)
 
 </div>
