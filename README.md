@@ -27,27 +27,11 @@ const SrKitKat = {
 };
 ```
 
-## DarkType
+## Projetos em destaque
 
-**Plataforma para aprender digitação e programação.**
+<img width="100%" src="assets/darktype.svg" alt="DarkType — plataforma educacional de digitação e programação, com desafios e salas em tempo real. Feita com Next.js, TypeScript, Tailwind CSS e Supabase. Código privado.">
 
-- Salas ao vivo com professores e alunos.
-- Desafios, rankings e evolução dos participantes.
-
-**Feito com:** Next.js, TypeScript, Tailwind CSS e Supabase.
-
-Código privado.
-
-## BotFlix
-
-**Aplicativo de mídia para web e Android.**
-
-- Catálogo com busca e favoritos.
-- Histórico de reprodução e player nativo no Android.
-
-**Feito com:** Next.js, TypeScript e Capacitor.
-
-Código privado.
+<img width="100%" src="assets/botflix.svg" alt="BotFlix — aplicativo de mídia para web e Android, com busca, favoritos e reprodução. Feito com Next.js, TypeScript, Capacitor e HLS.js. Código privado.">
 
 ## 🛠️ Tecnologias
 

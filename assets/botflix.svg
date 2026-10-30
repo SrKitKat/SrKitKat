@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="BotFlix: Seu catálogo. Sua próxima experiência.">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c32"/><stop offset="1" stop-color="#080e1c"/></linearGradient>
+ <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#ffad8c"/><stop offset="1" stop-color="#ec7bb7"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ffad8c" stop-opacity=".22"/><stop offset="1" stop-color="#ffad8c" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7b9d2" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="418" rx="26" fill="url(#bg)" stroke="#2b3a52" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="418" rx="26" fill="url(#grid)"/>
+<ellipse cx="1000" cy="200" rx="290" ry="290" fill="url(#glow)"/>
+<rect x="42" y="52" width="5" height="254" rx="2.5" fill="url(#accent)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+ <text x="70" y="66" fill="#ffad8c" font-size="16" font-weight="700" letter-spacing="3">WEB + ANDROID</text>
+ <text x="66" y="143" fill="#f5f8ff" font-size="68" font-weight="800" letter-spacing="-2">BotFlix</text>
+ <text x="70" y="193" fill="#e0e9fa" font-size="27" font-weight="600">Seu catálogo. Sua próxima experiência.</text>
+ <text x="70" y="234" fill="#b1c1d9" font-size="22">Busca, favoritos e reprodução na web e no Android.</text>
+ <rect x="70" y="267" width="610" height="46" rx="12" fill="#19263b" stroke="#34445c"/>
+ <text x="89" y="297" fill="#e1eafa" font-size="19" font-weight="500">Next.js  ·  TypeScript  ·  Capacitor  ·  HLS.js</text>
+ <text x="70" y="370" fill="#8ea2bf" font-size="17">PROJETO PESSOAL</text>
+ <circle cx="264" cy="364" r="3" fill="#ffad8c"/>
+ <text x="279" y="370" fill="#8ea2bf" font-size="17">CÓDIGO PRIVADO</text>
+ <text x="1118" y="370" text-anchor="end" fill="#738ba9" font-size="17" font-weight="600">SrKitKat /</text>
+</g>
+<g transform="translate(761 70)">
+ <rect x="0" y="12" width="324" height="218" rx="18" fill="#10182b" stroke="#41516e" stroke-width="2"/>
+ <rect x="13" y="25" width="298" height="158" rx="10" fill="#241b3c"/>
+ <path d="M13 146L92 74L156 134L220 55L311 152V183H13Z" fill="#45325b"/>
+ <circle cx="254" cy="64" r="22" fill="#f09ea2" opacity=".7"/>
+ <circle cx="162" cy="103" r="39" fill="#ff806e"/>
+ <path d="M153 82L183 103L153 124Z" fill="#fff5ef"/>
+ <rect x="27" y="202" width="239" height="4" rx="2" fill="#3c4c65"/><rect x="27" y="202" width="145" height="4" rx="2" fill="#ff9680"/>
+ <path d="M139 232V250H96M184 232V250H222" fill="none" stroke="#41516e" stroke-width="7" stroke-linecap="round"/>
+ <rect x="253" y="108" width="104" height="182" rx="18" fill="#0b1222" stroke="#68758f" stroke-width="2"/>
+ <rect x="263" y="128" width="84" height="137" rx="8" fill="#352343"/>
+ <rect x="287" y="116" width="37" height="4" rx="2" fill="#68758f"/>
+ <path d="M294 165L320 183L294 201Z" fill="#ffa58d"/>
+ <rect x="275" y="220" width="60" height="5" rx="2" fill="#b8788c"/><rect x="275" y="235" width="43" height="5" rx="2" fill="#73566e"/>
+ <circle cx="305" cy="277" r="4" fill="#68758f"/>
+</g>
+</svg>
