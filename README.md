@@ -29,11 +29,27 @@ const SrKitKat = {
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que desenvolvo | Tecnologias |
-| --- | --- | --- |
-| **DarkType** · código privado | Plataforma educacional de digitação e programação, com salas em tempo real, desafios e rankings. | Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL e Ably |
-| **BotFlix** · código privado | Aplicação de mídia para web e Android, com busca, favoritos, histórico de reprodução e player nativo. | Next.js, React, TypeScript, Capacitor e HLS.js |
-| **[Fluk — ver aplicação](https://fluk.vercel.app/)** | Adaptação do [CSS Diner](https://github.com/flukeout/css-diner), jogo para praticar seletores CSS. | HTML, CSS e JavaScript |
+### ⌨️ DarkType
+
+**Aprender, praticar e competir em tempo real.**
+
+Plataforma educacional que transforma digitação e programação em desafios interativos. Salas ao vivo, rankings e progressão conectam professores e alunos em uma experiência gamificada.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Ably`
+
+<sub>EDUCAÇÃO · TEMPO REAL · GAMIFICAÇÃO &nbsp; 🔒 Código privado</sub>
+
+---
+
+### 🎬 BotFlix
+
+**Uma experiência de mídia entre web e Android.**
+
+Catálogo com busca, favoritos e histórico para continuar de onde parou. Interface web integrada a um aplicativo Android com reprodução em player nativo.
+
+`Next.js` `React` `TypeScript` `Capacitor` `HLS.js`
+
+<sub>WEB · ANDROID · MULTIMÍDIA &nbsp; 🔒 Código privado</sub>
 
 ## 🛠️ Tecnologias
 
